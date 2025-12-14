@@ -1,0 +1,100 @@
+price,Brand,model,Body,Year,transmission,fuel_type,Km,Horsepower,damaged
+3400,fiat,andere,compact,2006,manual,gasoline,125000,65,no
+5200,volvo,xc_reihe,suv,2009,Automatic,diesel,150000,220,yes
+3522,audi,a4,sedan,2004,manual,diesel,150000,131,no
+10400,bmw,3er,station wagon,2008,manual,diesel,125000,177,no
+2499,bmw,3er,station wagon,2000,manual,gasoline,150000,118,no
+2100,volkswagen,passat,sedan,1998,manual,gasoline,150000,101,no
+7990,hyundai,i_reihe,sedan,2012,manual,diesel,60000,90,no
+3800,mercedes_benz,e_klasse,station wagon,2000,Automatic,diesel,150000,197,no
+13999,bmw,1er,sedan,2010,manual,diesel,70000,177,no
+3250,audi,tt,coupe,1999,manual,gasoline,150000,179,no
+3750,volkswagen,golf,bus,2005,manual,gasoline,150000,75,no
+2100,volvo,v70,station wagon,1998,manual,gasoline,150000,144,no
+1699,renault,twingo,compact,2002,manual,gasoline,90000,75,no
+999,ford,galaxy,bus,1998,manual,gasoline,150000,145,no
+14999,renault,megane,coupe,2012,manual,diesel,90000,160,no
+2399,volkswagen,polo,compact,2002,manual,gasoline,150000,64,no
+2750,bmw,5er,sedan,1999,manual,gasoline,5000,170,no
+3100,opel,astra,coupe,2002,manual,lpg,125000,75,no
+2350,bmw,3er,sedan,2002,manual,gasoline,150000,118,no
+11600,mercedes_benz,e_klasse,station wagon,2011,Automatic,diesel,150000,170,yes
+1850,volkswagen,polo,compact,2004,manual,diesel,150000,75,no
+2100,renault,laguna,station wagon,2007,manual,diesel,150000,131,no
+750,renault,laguna,station wagon,2002,manual,diesel,150000,150,no
+2222,renault,megane,coupe,2002,manual,gasoline,125000,107,no
+5500,skoda,octavia,station wagon,2006,manual,gasoline,150000,102,yes
+10690,toyota,yaris,compact,2012,manual,gasoline,50000,99,no
+7490,volkswagen,caddy,bus,2005,manual,diesel,150000,105,no
+1000,volkswagen,golf,sedan,1990,manual,gasoline,150000,54,no
+2150,mercedes_benz,a_klasse,sedan,2000,manual,diesel,150000,60,no
+7888,volkswagen,golf,sedan,2007,manual,gasoline,150000,170,no
+5200,volkswagen,touran,bus,2003,manual,diesel,150000,136,no
+4450,volkswagen,touran,bus,2006,manual,diesel,150000,105,no
+6290,mazda,mx_reihe,cabriolet,2000,manual,gasoline,70000,140,no
+4950,peugeot,4_reihe,sedan,2006,Automatic,diesel,150000,136,no
+2800,volkswagen,passat,station wagon,2003,manual,gasoline,150000,116,no
+9500,volkswagen,phaeton,sedan,2004,Automatic,gasoline,150000,264,no
+3499,volkswagen,transporter,bus,2001,manual,diesel,150000,88,no
+2250,opel,zafira,bus,2000,Automatic,gasoline,150000,147,no
+14500,audi,a1,compact,2011,Automatic,diesel,60000,90,no
+2900,mercedes_benz,andere,sedan,1999,Automatic,diesel,150000,125,no
+17500,volkswagen,tiguan,suv,2012,manual,diesel,125000,140,no
+700,renault,laguna,station wagon,1999,manual,gasoline,150000,107,no
+3999,volkswagen,golf,sedan,2002,manual,gasoline,125000,105,no
+1499,opel,astra,cabriolet,2003,manual,diesel,150000,125,yes
+590,volkswagen,polo,compact,1995,manual,gasoline,150000,45,no
+12999,ford,focus,station wagon,2012,manual,diesel,150000,116,no
+3800,mercedes_benz,vito,bus,2005,manual,diesel,150000,88,no
+1450,opel,astra,station wagon,2002,manual,gasoline,150000,125,no
+1999,volkswagen,polo,compact,2002,manual,gasoline,150000,75,no
+650,volkswagen,golf,cabriolet,1996,manual,gasoline,150000,90,no
+650,opel,corsa,compact,1997,manual,gasoline,125000,55,no
+1699,mitsubishi,andere,bus,2003,manual,gasoline,150000,98,no
+1699,renault,kangoo,bus,1998,manual,gasoline,150000,75,no
+2500,volkswagen,golf,compact,2001,manual,diesel,150000,110,no
+5450,audi,a6,station wagon,2002,manual,gasoline,125000,170,no
+6999,volkswagen,passat,sedan,2006,Automatic,diesel,150000,140,no
+1550,seat,leon,sedan,2005,manual,gasoline,90000,105,yes
+8300,hyundai,i_reihe,bus,2012,manual,gasoline,5000,90,no
+8500,audi,a4,sedan,2007,manual,diesel,150000,179,no
+13390,mazda,6_reihe,station wagon,2010,manual,gasoline,50000,155,no
+14900,bmw,1er,sedan,2006,manual,gasoline,125000,265,no
+3200,opel,astra,station wagon,2006,manual,diesel,150000,101,no
+2350,volkswagen,passat,station wagon,2004,manual,diesel,150000,131,no
+3800,smart,fortwo,compact,2007,Automatic,gasoline,125000,71,no
+4500,opel,agila,compact,2008,manual,gasoline,125000,86,no
+8999,opel,meriva,bus,2012,manual,gasoline,70000,120,no
+1150,alfa_romeo,147,sedan,2001,Automatic,gasoline,150000,150,no
+2000,volkswagen,polo,compact,2000,manual,gasoline,125000,60,no
+5500,audi,a3,coupe,2004,manual,gasoline,150000,102,no
+1050,ford,transit,bus,1999,manual,diesel,150000,63,yes
+3099,opel,astra,sedan,1995,manual,gasoline,125000,150,no
+13900,bmw,3er,station wagon,2011,manual,diesel,150000,177,no
+5500,opel,corsa,compact,2009,manual,gasoline,100000,80,no
+12999,volkswagen,golf,sedan,2007,manual,gasoline,150000,230,no
+799,opel,meriva,bus,2005,manual,gasoline,150000,101,yes
+9990,volkswagen,golf,sedan,2010,manual,diesel,125000,105,no
+1400,volkswagen,golf,compact,1997,manual,gasoline,150000,75,no
+2700,ford,fiesta,compact,2005,manual,gasoline,125000,69,yes
+1800,peugeot,2_reihe,compact,2004,manual,gasoline,150000,88,no
+1799,peugeot,3_reihe,station wagon,2001,manual,gasoline,125000,113,no
+999,toyota,avensis,station wagon,2000,manual,diesel,150000,110,no
+18750,volkswagen,golf,sedan,2012,manual,gasoline,60000,235,no
+4900,volkswagen,passat,sedan,2006,manual,diesel,150000,140,no
+11500,mercedes_benz,e_klasse,station wagon,2009,Automatic,diesel,150000,170,no
+9300,audi,a3,station wagon,2008,manual,diesel,150000,105,no
+1650,opel,corsa,compact,2004,manual,gasoline,150000,60,no
+750,bmw,3er,compact,1996,manual,gasoline,150000,114,no
+2990,bmw,5er,sedan,1998,manual,gasoline,150000,150,no
+4800,mercedes_benz,a_klasse,sedan,2006,manual,diesel,150000,106,no
+599,fiat,bravo,sedan,1996,manual,gasoline,150000,75,no
+8490,mini,one,cabriolet,2007,manual,gasoline,90000,90,no
+3800,opel,corsa,compact,2008,manual,gasoline,125000,60,no
+650,volkswagen,golf,sedan,1997,manual,gasoline,150000,75,no
+1500,volkswagen,polo,station wagon,1998,manual,gasoline,150000,101,no
+550,audi,a4,sedan,1995,manual,gasoline,150000,101,no
+5990,volkswagen,caddy,station wagon,2008,manual,diesel,150000,105,no
+1150,opel,corsa,compact,2000,manual,gasoline,150000,65,no
+1600,volkswagen,polo,compact,1999,manual,gasoline,150000,60,no
+2799,mercedes_benz,e_klasse,station wagon,2000,Automatic,gasoline,150000,170,no
